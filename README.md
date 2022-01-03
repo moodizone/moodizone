@@ -18,6 +18,6 @@
 
 #### 📬 Get in Touch
 
-- [Github](https://github.com/moodizone)
+- [Twitter](https://twitter.com/moodizone)
 - [Linkedin](https://www.linkedin.com/in/moodizone/)
 - moodizone@gmail.com
