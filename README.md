@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**moodizone/moodizone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Moodi, a Software Engineering who live in Iran.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Front-End developer in [PayPing](https://payping.io)
+- 🎉 Started couple of open-source projects.
+- 🌐 I'm availabe to collaborate with international companies and large global teams.
+
+##### BIO
+- 🔭 Bachelor's degree in **Software Engineering** at [Sadjad University of Technology](https://www.sadjad.ac.ir/)
+- 🌱 Learning all about **JavaScript**
+- 🏢 I'm currently learning at **Node JS** and **Mongo DB**
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`.
+- 💬 I'm mostly active within the **Web Developing** and **Mobile Application via React Native**.
+
+
+#### 📬 Get in Touch
+
+- [Github](https://github.com/moodizone)
+- [Linkedin](https://www.linkedin.com/in/moodizone/)
+- moodizone@gmail.com
