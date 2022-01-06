@@ -11,7 +11,7 @@
 ##### BIO
 - 🔭 Bachelor's degree in **Software Engineering** at [Sadjad University of Technology](https://www.sadjad.ac.ir/)
 - 🌱 Learning all about **JavaScript**
-- 🏢 I'm currently learning **Node JS** and **Mongo DB**
+- 🏢 I'm currently working on **React Native** material.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.psd`, `.ai`.
 - 💬 I'm mostly active within the **Web Developing** and **Mobile Application via React Native**.
 
