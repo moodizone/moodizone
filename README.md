@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-#### I'm Moodi, a Software Engineering who live in Iran.
+#### I'm Moodi, a Software Engineering
 
 ##### NOW
 
-- ✨ Front-End developer at [PayPing](https://payping.io)
+- ✨ Freelance Front-End developer
 - 🎉 Started couple of open-source projects.
-- 🌐 I'm availabe to collaborate with international companies and large global teams.
+- 🌐 I'm available to collaborate with international companies and large global teams.
 
 ##### BIO
-- 🔭 Bachelor's degree in **Software Engineering** at [Sadjad University of Technology](https://www.sadjad.ac.ir/)
+- 🔭 Bachelor's degree in **Software Engineering** on 2018
 - 🌱 Learning all about **JavaScript**
 - 🏢 I'm currently working on **React Native** material.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.psd`, `.ai`.
 - 💬 I'm mostly active within the **Web Developing** and **Mobile Application via React Native**.
 
 
-#### 📬 Get in Touch
+[comment]: <> (#### 📬 Get in Touch)
 
-- [Twitter](https://twitter.com/moodizone)
-- [Linkedin](https://www.linkedin.com/in/moodizone/)
-- moodizone@gmail.com
+[comment]: <> (- [Twitter]&#40;https://twitter.com/moodizone&#41;)
+
+[comment]: <> (- [Linkedin]&#40;https://www.linkedin.com/in/moodizone/&#41;)
+
+[comment]: <> (- moodizone@gmail.com)
