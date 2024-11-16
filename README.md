@@ -7,13 +7,7 @@
 - ✨ Freelance Front-End developer
 - 🎉 Started couple of open-source projects.
 - 🌐 I'm available to collaborate with international companies and large global teams.
-
-##### BIO
 - 🔭 Bachelor's degree in **Software Engineering** on 2018
-- 🌱 Learning all about **JavaScript**
-- 🏢 I'm currently working on **React Native** material.
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.psd`, `.ai`.
-- 💬 I'm mostly active within the **Web Developing** and **Mobile Application via React Native**.
 
 
 [comment]: <> (#### 📬 Get in Touch)
